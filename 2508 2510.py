@@ -129,7 +129,7 @@ while q :
             print('서기', end='')
             print(y, end='')
             print('년', end=' ')
-            print('음식물 쓰레기가 너무 많습니다 you die')
+            print('음식물 쓰레기가 너]\\\\무 많습니다 you die')
             q=False
             break
         else :
